@@ -1,0 +1,15 @@
+# Private research data: do not publish
+*.sav
+*.xls
+*.xlsx
+!examples/*.xlsx
+*.csv
+*.tex
+!examples/*.csv
+output/
+data/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
